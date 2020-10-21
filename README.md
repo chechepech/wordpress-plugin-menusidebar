@@ -1,12 +1,12 @@
 # WordPress 5.5.1
 
 ## Plugin Name: Section Menus
-### Plugin URI: https://github.com/chechepech/
-#### Description: Add a section menu to the sidebar
 
-* :diamond_shape_with_a_dot_inside: Version: 0.1
-* :diamond_shape_with_a_dot_inside: Author: Cheche Pech
-* :diamond_shape_with_a_dot_inside: Author URI: https://chechepech.gq
+### Description: Add a section menu to the sidebar
+
+:diamond_shape_with_a_dot_inside: Version: 0.1
+:diamond_shape_with_a_dot_inside: Author: Cheche Pech
+:diamond_shape_with_a_dot_inside: Author URI: https://chechepech.gq
 * :diamond_shape_with_a_dot_inside: License: GPL2
 * :diamond_shape_with_a_dot_inside: License URI: https://www.gnu.org/licenses/gpl-2.0.html
 * :diamond_shape_with_a_dot_inside: Domain Path: /languages
