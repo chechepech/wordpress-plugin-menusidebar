@@ -11,7 +11,7 @@
 > Domain Path: /languages
 > Text Domain: mymenu
 
-![Image of ](.png)
+![Image of menu sidebar](menu_sidebar.png)
 
 |  |  | Follow me! Cheché Pech |  |  |
 | --- | --- | :---: | ---| --- |
